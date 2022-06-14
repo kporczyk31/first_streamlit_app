@@ -1,1 +1,3 @@
-new file
+import streamlit
+
+streamlit.title('wszystko gra')
