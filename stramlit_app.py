@@ -1,7 +1,7 @@
 import streamlit
 import pandas
-import requests
-import snowflake.connector
+#import requests
+#import snowflake.connector
 
 
 streamlit.title('wszystko gra')
